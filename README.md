@@ -1,2 +1,2 @@
 # chrome-linkSaver-extension
-chrome link saver extintion using html ,css and js
+chrome link saver extension using html ,css and js
